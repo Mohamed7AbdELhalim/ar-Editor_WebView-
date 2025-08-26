@@ -1,6 +1,6 @@
 <think>We are building a SCORM to HTML Converter App. The MVP will have two main features:
 https://llamacoder.together.ai/share/v2/h8vVUCAa-ACBipDr
-File Upload and Conversion: Upload a SCORM package (zip file), validate it, extract contents, and convert to HTML.
+- File Upload and Conversion: Upload a SCORM package (zip file), validate it, extract contents, and convert to HTML.
 HTML Preview: Display the converted HTML content in an iframe.
 We'll use:
 <img width="886" height="761" alt="image" src="https://github.com/user-attachments/assets/e51fccfa-4fab-4f50-9f0d-f72df04cd0d5" />
